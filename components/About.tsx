@@ -7,6 +7,7 @@ const About = (props: Props) => {
   return (
     <motion.div
         initial={{
+            
             opacity: 0,
         }}
         whileInView={{
